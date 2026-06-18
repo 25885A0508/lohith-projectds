@@ -1,0 +1,35 @@
+Hello World
+
+Hello World is the simplest program used when learning a new programming language. It displays the message "Hello, World!" on the screen and helps beginners understand the basic syntax of the language.
+
+Importance of Hello World
+First program written by beginners.
+Helps verify that the programming environment is working correctly.
+Introduces basic programming concepts such as output statements.
+Builds confidence before learning advanced topics.
+Example in HTML
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hello World</title>
+</head>
+<body>
+    <h1>Hello, World!</h1>
+</body>
+</html>
+Example in C
+#include <stdio.h>
+
+int main() {
+    printf("Hello, World!");
+    return 0;
+}
+Example in Java
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
+Conclusion
+
+The Hello World program is the traditional starting point for learning programming. It demonstrates how to display output and ensures that the coding environment is set up correctly.
